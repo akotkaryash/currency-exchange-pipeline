@@ -1,0 +1,6 @@
+numpy==1.26.4
+pyspark==3.5.1
+google-cloud-bigquery==3.11.4
+google-cloud-bigquery-storage==2.22.0
+pandas==2.1.0
+pyarrow==14.0.1
